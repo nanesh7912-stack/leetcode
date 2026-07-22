@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nanesh7912-stack/leetcode/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/nanesh7912-stack/leetcode/tree/master/0136-single-number) |
 ## Bit Manipulation
 |  |
@@ -16,4 +17,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/nanesh7912-stack/leetcode/tree/master/0191-number-of-1-bits) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/nanesh7912-stack/leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
