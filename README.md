@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/nanesh7912-stack/leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nanesh7912-stack/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/nanesh7912-stack/leetcode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/nanesh7912-stack/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/nanesh7912-stack/leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/nanesh7912-stack/leetcode/tree/master/0414-third-maximum-number) |
 | [0658-find-k-closest-elements](https://github.com/nanesh7912-stack/leetcode/tree/master/0658-find-k-closest-elements) |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/nanesh7912-stack/leetcode/tree/master/0658-find-k-closest-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/nanesh7912-stack/leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
