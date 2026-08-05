@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nanesh7912-stack/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/nanesh7912-stack/leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nanesh7912-stack/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/nanesh7912-stack/leetcode/tree/master/0392-is-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/nanesh7912-stack/leetcode/tree/master/0658-find-k-closest-elements) |
 ## Linked List
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/nanesh7912-stack/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nanesh7912-stack/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/nanesh7912-stack/leetcode/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -97,4 +99,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/nanesh7912-stack/leetcode/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nanesh7912-stack/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/nanesh7912-stack/leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
